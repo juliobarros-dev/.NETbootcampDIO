@@ -7,3 +7,10 @@ Repositório destinado as atividades e projetos desenvolvidos durante o bootcamp
 [Repositório](https://github.com/juliobarros-dev/trilha-dio-dotnet-sistema-estacionamento)
 
 <hr>
+
+### Desafio de Projeto
+<p> Criar uma aplicação de console que gerencie a hospedagem de clientes.</p>
+
+[Repositório](https://github.com/juliobarros-dev/trilha-dio-dotnet-sistema-hospedagem)
+
+<hr>
