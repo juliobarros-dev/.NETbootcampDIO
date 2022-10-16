@@ -14,3 +14,7 @@ Repositório destinado as atividades e projetos desenvolvidos durante o bootcamp
 [Repositório](https://github.com/juliobarros-dev/trilha-dio-dotnet-sistema-hospedagem)
 
 <hr>
+
+### Desafio de Projeto
+<p> Abstrair smortphone para praticar herança, morfologia e abstração.</p>
+[Repositório](https://github.com/juliobarros-dev/trilha-dio-dotnet-abstracao-celular)
